@@ -1,3 +1,3 @@
 # Learn Branches
 
-# Master Branch
+# Git checkout -b feature/new-branch  Branch
